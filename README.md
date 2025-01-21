@@ -1,16 +1,20 @@
-## Hi there 👋
+## Olá!!! 👋
 
-<!--
-**ThiagoBel/ThiagoBel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Estou aprendendo: Java
+- Sei bastante: C++ / JavaScript
 
-Here are some ideas to get you started:
+- Meus sites -> [La Onda Hub](https://linktr.ee/laondahub/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <div id="geral">
+     <div align="center">
+  <a href="https://github.com/ThiagoBel">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ThiagoBel&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoBel&layout=compact&langs_count=7&theme=radical"/>
+
+</div>
+  <div id="Linguagens">
+  <img align="center" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" height="30" width="30" src="https://thiagobel.github.io/cpp/Cpp.png">
+  <img align="center" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  </div>
+  </div>
