@@ -1,7 +1,7 @@
 # 👋
 
 - **Estou aprendendo:** Java  
-- 🛠**Sei bastante:** C++ / JavaScript  
+- **Sei bastante:** C++ / JavaScript  
 - **Nascimento:** 08/11/2010  
 - **Idade:** 14 anos  
 - **País:** Brasil  
