@@ -1,12 +1,12 @@
-## 👋 Olá!
+## 👋
 
-- 📚 **Estou aprendendo:** Java  
-- 🛠️ **Sei bastante:** C++ / JavaScript  
-- 🎂 **Nascimento:** 08/11/2010  
-- 🗓️ **Idade:** 14 anos  
-- 🌍 **País:** Brasil  
+- **Estou aprendendo:** Java  
+- 🛠**Sei bastante:** C++ / JavaScript  
+- **Nascimento:** 08/11/2010  
+- **Idade:** 14 anos  
+- **País:** Brasil  
 
-### 🌐 Meus Sites ->
+### Meus Sites ->
 - [La Onda Hub](https://linktr.ee/laondahub/)
 
 ---
@@ -20,7 +20,6 @@
 
 ---
 
-### 💻 Linguagens
 <div id="Linguagens" align="center">
       <img width="40" heigth="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
       <img width="40" heigth="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
