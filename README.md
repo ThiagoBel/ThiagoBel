@@ -1,4 +1,4 @@
-## 👋
+# 👋
 
 - **Estou aprendendo:** Java  
 - 🛠**Sei bastante:** C++ / JavaScript  
