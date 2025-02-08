@@ -6,9 +6,6 @@
 - **Idade:** 14 anos  
 - **País:** Brasil  
 
-### Meus Sites -> 
-- [La Onda Hub](https://linktr.ee/laondahub/)
-
 ---
 
 <div id="geral" align="center">
