@@ -6,7 +6,7 @@ Criador de Aplicativos de terminal & Sites
 
 * 🌍  Moro no Brasil, Pernambuco
 * ✉️  Email: [thiagobel38@gmail.com](mailto:thiagobel38@gmail.com)
-* 🚀  Estou fazendo o [BasicBasic](http://github.com/ThiagoBel/BasicBasic)
+* 🚀  Estou fazendo o [El Bob](http://github.com/ThiagoBel/ElBob)
 * 🧠  Estou estudando Java
 
 <a href="https://www.github.com/ThiagoBel" target="_blank" rel="noreferrer"><img
