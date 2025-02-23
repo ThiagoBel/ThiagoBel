@@ -47,17 +47,23 @@ src="https://img.shields.io/github/followers/ThiagoBel?logo=github&style=for-the
 
 <a href="https://github.com/ThiagoBel" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoBel&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Melhores repositorioss</b>
+### 🔥 Projetos em Destaque
 
-<div width="100%" align="center">
-    <a href="https://github.com/ThiagoBel/BasicBasic" align="left">
-        <img align="left" width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=ThiagoBel&repo=BasicBasic&title_color=ffffff&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en" />
+<div align="center">
+    <a href="https://github.com/ThiagoBel/BasicBasic">
+        <img align="top" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ThiagoBel&repo=BasicBasic&title_color=ffffff&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en" />
     </a>
-    <a href="https://github.com/ThiagoBel/All-java" align="center">
-        <img align="center" width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=ThiagoBel&repo=All-java&title_color=ffffff&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en" />
+    <a href="https://github.com/ThiagoBel/Vedin">
+        <img align="top" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ThiagoBel&repo=Vedin&title_color=ffffff&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en" />
     </a>
-    <a href="https://github.com/ThiagoBel/ElBob" align="right">
-        <img align="right" width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=ThiagoBel&repo=ElBob&title_color=ffffff&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en" />
+</div>
+
+<div align="center">
+    <a href="https://github.com/ThiagoBel/All-java">
+        <img align="top" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ThiagoBel&repo=All-java&title_color=ffffff&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en" />
+    </a>
+    <a href="https://github.com/ThiagoBel/ElBob">
+        <img align="top" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ThiagoBel&repo=ElBob&title_color=ffffff&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en" />
     </a>
 </div>
 <br /><br /><br /><br /><br /><br /><br />
