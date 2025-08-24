@@ -6,7 +6,7 @@ Criador de Aplicativos de terminal & Sites
 
 * 🌍  Moro no Brasil, Pernambuco
 * ✉️  Email: [thiagobel38@gmail.com](mailto:thiagobel38@gmail.com)
-* 🚀  Estou fazendo o [Tasil](http://github.com/ThiagoBel/Tasil)
+* 🚀  Estou fazendo o [Tasil](http://github.com/ThiagoBel/Tasil) e [SimpleCode]([http://github.com/ThiagoBel/Tasil](https://github.com/ThiagoBel/SimpleCode-IDE-))
 * 🧠  Estou estudando C++
 
 <a href="https://www.github.com/ThiagoBel" target="_blank" rel="noreferrer"><img
